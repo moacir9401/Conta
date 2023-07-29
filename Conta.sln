@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conta", "Conta\Conta.csproj", "{1759DD35-E87A-494B-9121-7406425ABE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contaFront", "contaFront\contaFront.csproj", "{69BB94F9-62B9-4267-9FC7-96C721C4B6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1759DD35-E87A-494B-9121-7406425ABE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1759DD35-E87A-494B-9121-7406425ABE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1759DD35-E87A-494B-9121-7406425ABE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1759DD35-E87A-494B-9121-7406425ABE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BB94F9-62B9-4267-9FC7-96C721C4B6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BB94F9-62B9-4267-9FC7-96C721C4B6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BB94F9-62B9-4267-9FC7-96C721C4B6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BB94F9-62B9-4267-9FC7-96C721C4B6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A597AB-A9CA-4598-820B-EE8EE280C41F}
+	EndGlobalSection
+EndGlobal
